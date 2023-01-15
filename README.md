@@ -1,3 +1,3 @@
 # todo-list
-here si the link to it:
+here is the link to it:
 https://esmanerdem.github.io/todo-list/
